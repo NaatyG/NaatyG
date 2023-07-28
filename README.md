@@ -7,11 +7,11 @@ os projetos que irei me desafiar para aumentar o meu conhecimento e adicionar no
 -------------------------------------------------------------------------------------
 **Atualmente mais focada em:**
 
-- Desenvolvimento web 
+- DevOps 
 - Análise de dados
-- Testes
+- Testes 
 - Automações de tarefas 
-- Criações de BOOT e Inteligência Artificial.
+- Desenvolvimento web
 --------------------------------------------------------------------------------------
 
 **Conhecimentos em:<br>**
